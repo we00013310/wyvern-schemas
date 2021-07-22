@@ -13,10 +13,6 @@
     "test": "scripts/test.sh",
     "prepublish": "yarn build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ProjectWyvern/wyvern-schemas.git"
-  },
   "keywords": [
     "ethereum",
     "project-wyvern",
