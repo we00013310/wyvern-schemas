@@ -8,4 +8,5 @@ export const schemas = {
   rinkeby: rinkebySchemas,
   main: mainSchemas,
   testnet: mainSchemas,
+  ropsten: mainSchemas,
 };

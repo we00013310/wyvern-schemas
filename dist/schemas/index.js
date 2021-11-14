@@ -6,5 +6,6 @@ exports.schemas = {
     rinkeby: index_2.rinkebySchemas,
     main: index_1.mainSchemas,
     testnet: index_1.mainSchemas,
+    ropsten: index_1.mainSchemas,
 };
 //# sourceMappingURL=index.js.map
