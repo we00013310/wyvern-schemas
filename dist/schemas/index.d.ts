@@ -4,4 +4,5 @@ export declare const schemas: {
     main: Schema<any>[];
     testnet: Schema<any>[];
     ropsten: Schema<any>[];
+    ethereum: Schema<any>[];
 };

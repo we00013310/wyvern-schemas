@@ -7,5 +7,6 @@ exports.schemas = {
     main: index_1.mainSchemas,
     testnet: index_1.mainSchemas,
     ropsten: index_1.mainSchemas,
+    ethereum: index_1.mainSchemas,
 };
 //# sourceMappingURL=index.js.map

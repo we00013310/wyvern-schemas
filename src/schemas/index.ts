@@ -9,4 +9,5 @@ export const schemas = {
   main: mainSchemas,
   testnet: mainSchemas,
   ropsten: mainSchemas,
+  ethereum: mainSchemas,
 };
